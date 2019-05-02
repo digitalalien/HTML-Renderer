@@ -12,11 +12,11 @@
 
 using System;
 using System.Collections.Generic;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using DA.HtmlRenderer.Adapters;
+using DA.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Dom
+namespace DA.HtmlRenderer.Core.Dom
 {
     /// <summary>
     /// Helps on CSS Layout.

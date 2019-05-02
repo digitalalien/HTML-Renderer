@@ -15,15 +15,15 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Text;
 using System.Windows.Forms;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core;
-using TheArtOfDev.HtmlRenderer.Core.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Parse;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
-using TheArtOfDev.HtmlRenderer.WinForms.Adapters;
-using TheArtOfDev.HtmlRenderer.WinForms.Utilities;
+using DA.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.Core;
+using DA.HtmlRenderer.Core.Entities;
+using DA.HtmlRenderer.Core.Parse;
+using DA.HtmlRenderer.Core.Utils;
+using DA.HtmlRenderer.WinForms.Adapters;
+using DA.HtmlRenderer.WinForms.Utilities;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms
+namespace DA.HtmlRenderer.WinForms
 {
     /// <summary>
     /// Low level handling of Html Renderer logic, this class is used by <see cref="HtmlParser"/>, 

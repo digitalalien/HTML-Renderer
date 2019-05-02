@@ -13,9 +13,9 @@
 using System;
 using System.Diagnostics;
 using System.IO;
-using TheArtOfDev.HtmlRenderer.Core.Entities;
+using DA.HtmlRenderer.Core.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.Demo.Common
+namespace DA.HtmlRenderer.Demo.Common
 {
     public class DemoUtils
     {

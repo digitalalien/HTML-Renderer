@@ -14,11 +14,11 @@ using System;
 using System.Text;
 using System.Windows;
 
-namespace TheArtOfDev.HtmlRenderer.WPF.Utilities
+namespace DA.HtmlRenderer.WPF.Utilities
 {
     /// <summary>
     /// Helper to encode and set HTML fragment to clipboard.<br/>
-    /// See http://theartofdev.com/2012/11/11/setting-html-and-plain-text-formatting-to-clipboard/.<br/>
+    /// See http://DA.com/2012/11/11/setting-html-and-plain-text-formatting-to-clipboard/.<br/>
     /// <seealso cref="CreateDataObject"/>.
     /// </summary>
     /// <remarks>

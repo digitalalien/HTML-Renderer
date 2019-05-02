@@ -13,12 +13,12 @@
 using System;
 using System.Globalization;
 using System.Text.RegularExpressions;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Parse;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using DA.HtmlRenderer.Adapters;
+using DA.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.Core.Parse;
+using DA.HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Dom
+namespace DA.HtmlRenderer.Core.Dom
 {
     /// <summary>
     /// Base class for css box to handle the css properties.<br/>

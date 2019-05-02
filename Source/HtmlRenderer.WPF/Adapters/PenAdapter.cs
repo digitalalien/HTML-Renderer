@@ -11,10 +11,10 @@
 // "The Art of War"
 
 using System.Windows.Media;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.Adapters;
+using DA.HtmlRenderer.Adapters.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.WPF.Adapters
+namespace DA.HtmlRenderer.WPF.Adapters
 {
     /// <summary>
     /// Adapter for WPF pens objects for core.

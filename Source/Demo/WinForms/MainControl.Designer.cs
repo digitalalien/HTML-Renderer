@@ -1,4 +1,4 @@
-﻿namespace TheArtOfDev.HtmlRenderer.Demo.WinForms
+﻿namespace DA.HtmlRenderer.Demo.WinForms
 {
     partial class MainControl
     {

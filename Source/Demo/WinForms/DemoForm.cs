@@ -16,13 +16,13 @@ using System.Drawing;
 using System.Drawing.Text;
 using System.IO;
 using System.Windows.Forms;
-using TheArtOfDev.HtmlRenderer.Demo.Common;
-using TheArtOfDev.HtmlRenderer.PdfSharp;
-using TheArtOfDev.HtmlRenderer.WinForms;
+using DA.HtmlRenderer.Demo.Common;
+using DA.HtmlRenderer.PdfSharp;
+using DA.HtmlRenderer.WinForms;
 using PdfSharp;
 using PdfSharp.Drawing;
 
-namespace TheArtOfDev.HtmlRenderer.Demo.WinForms
+namespace DA.HtmlRenderer.Demo.WinForms
 {
     public partial class DemoForm : Form
     {
@@ -84,7 +84,7 @@ namespace TheArtOfDev.HtmlRenderer.Demo.WinForms
         /// </summary>
         internal static Icon GetIcon()
         {
-            var stream = typeof(DemoForm).Assembly.GetManifestResourceStream("TheArtOfDev.HtmlRenderer.Demo.WinForms.html.ico");
+            var stream = typeof(DemoForm).Assembly.GetManifestResourceStream("DA.HtmlRenderer.Demo.WinForms.html.ico");
             return stream != null ? new Icon(stream) : null;
         }
 

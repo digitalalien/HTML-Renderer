@@ -1,6 +1,6 @@
-using TheArtOfDev.HtmlRenderer.WinForms;
+using DA.HtmlRenderer.WinForms;
 
-namespace TheArtOfDev.HtmlRenderer.Demo.WinForms
+namespace DA.HtmlRenderer.Demo.WinForms
 {
     partial class DemoForm
     {

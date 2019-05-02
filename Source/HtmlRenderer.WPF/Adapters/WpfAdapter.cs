@@ -17,12 +17,12 @@ using System.Reflection;
 using System.Windows;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.WPF.Utilities;
+using DA.HtmlRenderer.Adapters;
+using DA.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.WPF.Utilities;
 using Microsoft.Win32;
 
-namespace TheArtOfDev.HtmlRenderer.WPF.Adapters
+namespace DA.HtmlRenderer.WPF.Adapters
 {
     /// <summary>
     /// Adapter for WPF platform.

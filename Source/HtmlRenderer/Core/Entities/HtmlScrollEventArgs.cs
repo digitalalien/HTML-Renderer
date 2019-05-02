@@ -11,9 +11,9 @@
 // "The Art of War"
 
 using System;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using DA.HtmlRenderer.Adapters.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Entities
+namespace DA.HtmlRenderer.Core.Entities
 {
     /// <summary>
     /// Raised when Html Renderer request scroll to specific location.<br/>
